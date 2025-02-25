@@ -1,4 +1,4 @@
-This project contains 4 files.
+The Snake Game project contains 4 files.
 
 1) In snake.py file, we create the snake and get it moving around.
 2) In food.py file, we create a circular shaped food and put it in random places for the snake to go and get it.
